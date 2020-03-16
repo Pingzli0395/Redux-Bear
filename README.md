@@ -1,6 +1,7 @@
 # Redux-Bear
 Backend(RESTful API) command</br>
 -install node.js</br>
+https://nodejs.org/en/download/ </br>
 -install nodemon</br>
 npm install -g nodemon</br>
 -install node_modules</br>
