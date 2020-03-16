@@ -1,5 +1,5 @@
 # Redux-Bear
-Backend command</br>
+Backend(RESTful API) command</br>
 install</br>
 download node.js </br>
 npm i </br>
