@@ -5,6 +5,9 @@ https://nodejs.org/en/download/ </br>
 -install nodemon</br>
 npm install -g nodemon</br>
 -install node_modules</br>
+-check api</br>
+ run in postman or </br>
+http://localhost/api/bears</br>
 npm i </br>
 -run backend</br>
 node index.js or nodemon index.js
