@@ -1,17 +1,18 @@
 # Redux-Bear
-Backend(RESTful API) command</br>
+# Backend(RESTful API) </br>
 -install node.js</br>
 https://nodejs.org/en/download/ </br>
 -install nodemon</br>
 npm install -g nodemon</br>
 -install node_modules</br>
+npm i </br>
 -check api</br>
  run in postman or </br>
 http://localhost/api/bears</br>
-npm i </br>
 -run backend</br>
 node index.js or nodemon index.js
-Frontend </br>
+
+# Frontend </br>
 -install node_modules</br>
 npm i </br>
 -run react</br>
